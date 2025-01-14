@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Nom de votre application",
+    "slug": "votre-slug",
+    "version": "1.0.0",
+    "android": {
+      "package": "com.votre.nomdapplication"
+    }
+  }
+}
